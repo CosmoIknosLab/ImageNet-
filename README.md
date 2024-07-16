@@ -1,4 +1,4 @@
-# ImageNet+ : A Synthetic Version of ImageNet-1k
+# ImageNet Plus : A Synthetic Version of ImageNet-1k
 
 ## Introduction
 
